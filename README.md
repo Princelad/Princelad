@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Expense Tracker in C++,  Java<br>👯 I’m looking to collaborate on Game, Fun projects <br>🤝 I’m looking for help with AI and ML<br>🌱 I’m currently learning Python<br>
+🔭 I’m currently working on Expense Tracker in C++<br>👯 I’m looking to collaborate on Game, Fun projects <br>🤝 I’m looking for help with AI and ML<br>🌱 I’m currently learning Python<br>
 
 
 ## 🌐 Socials:
