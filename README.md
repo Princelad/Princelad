@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm studying B-Tech C.S.E. <br>🔭 I’m currently working on Expense Tracker in C++<br>👯 I’m looking to collaborate on a Games and some fun and challenging projects<br>🤝 I’m looking for help with AI and ML<br>🌱 I’m currently learning Python
+🎓 I'm studying B-Tech C.S.E. <br>🔭 I’m currently working on Expense Tracker in C++<br>👯 I’m looking to collaborate on a Games and some fun and challenging projects<br>🤝 I’m looking for help with AI and ML<br>🌱 I’m currently learning Python
 
 
 ## 🌐 Socials:
